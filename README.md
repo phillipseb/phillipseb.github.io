@@ -1,37 +1,18 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/phillipseb/phillipseb.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Emily Phillips, and I am currently a Master's student at Bellevue University pursuing a degree in Data Science. I also work full-time as a data engineer at a financial services industry, and have gained experience in the building, processing and utilization of data pipelines, both on-premise and in the cloud. This degree has expanded my knowledge and skills beyond this now, and I can't wait to see what else is in store in the data world!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This portfolio is an accumulation of my course project work over the curriculum of 5 terms (10 classes). I am very excited to share my work with anyone who happens to come across this page, and welcome all feedback!
 
-### Markdown
+Here is a list of the coursework I have completed so far (2 more to go until graduation!):
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/phillipseb/phillipseb.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. DSC 500 - Introduction to Data Science
+2. DSC 510 - Introduction to Programming
+3. DSC 520 - Statistics for Data Science
+4. DSC 530 - Data Exploration and Analysis
+5. DSC 540 - Data Preparation
+6. DSC 550 - Data Mining
+7. DSC 630 - Predictive Analytics
+8. DSC 640 - Data Presentation and Visualization
+9. DSC 650 - Big Data (completing Spring 2022 term)
+10. DSC 680 - Applied Data Science (completing Spring 2022 term)

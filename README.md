@@ -16,3 +16,6 @@ Here is a list of the coursework I have completed so far (2 more to go until gra
 8. DSC 640 - Data Presentation and Visualization
 9. DSC 650 - Big Data (completing Spring 2022 term)
 10. DSC 680 - Applied Data Science (completing Spring 2022 term)
+
+
+Thank you for visiting!
